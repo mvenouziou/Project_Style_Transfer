@@ -1,7 +1,8 @@
 # Project_Style_Transfer
 Implementation of Neural Style Transfer in Tensorflow
 
-This app takes a 'content' image and adapts it with texture elements from a second image. It is coded in Tensorflow / Python 
-based on techniques from DeepLearning.ai specialization on Coursera and the Tensorflow / Keras documentation. 
+This app takes a 'content' image and adapts it with texture elements from a second image.
 
-See my implementation at www.communicatemission.com/ml-projects#style_transfer
+- Try my web app implementation at www.communicatemission.com/ml-projects#style_transfer.
+
+The image model has been coded utilizing techniques from DeepLearning.ai specialization on Coursera (www.coursera.org/learn/nlp-sequence-models) and the Tensorflow style transfer documentation (www.tensorflow.org/tutorials/generative/style_transfer). The web app is built on the Anvil platform.
