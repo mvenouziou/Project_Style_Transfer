@@ -2,7 +2,8 @@
 Implementation of Neural Style Transfer in Tensorflow
 
 This app takes a 'content' image and adapts it with texture elements from a second image.
-Experimental Feature: use an audio file in place of a style image
+
+EXPERIMENTAL FEATURE: use an audio file in place of a style image. (This is implemented but still being tuned to produce meaningful results.)
 
 - Try my web app implementation at www.communicatemission.com/ml-projects#style_transfer. (audio style not yet implemented)
 
