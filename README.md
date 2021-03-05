@@ -2,11 +2,18 @@
 Implementation of Neural Style Transfer in Tensorflow
 
 This app takes a 'content' image and adapts it with texture elements from a second image.
+Experimental Feature: use an audio file in place of a style image
 
-- Try my web app implementation at www.communicatemission.com/ml-projects#style_transfer.
+- Try my web app implementation at www.communicatemission.com/ml-projects#style_transfer. (audio style not yet implemented)
 
+
+ 
 -----
 Credits / Attributions:
+
+Using Audio as Style source:
+
+- I have not seen this done before. The idea of representing audio as an image in order to apply visual network comes from *Deep Learning for Coders with fastai & Pytorch by Howard and Gugger (2020)*. (Original inverntor unknwon?)
 
 Image Content & Style:
 
