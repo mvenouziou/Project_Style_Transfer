@@ -28,15 +28,9 @@ Web app:
 
 Images from Unpslash.com
 - *<span><a href="https://unsplash.com/@abm25?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Aida Batres</a> on <a href="https://unsplash.com/@abm25?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-- <span>Photo by <a href="https://unsplash.com/@bmowinkel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Brandon Mowinkel</a> on <a href="https://unsplash.com/@bmowinkel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-- <span>Photo by <a href="https://unsplash.com/@autumnstudio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Autumn Studio</a> on <a href="https://unsplash.com/@autumnstudio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-- <span>Photo by <a href="https://unsplash.com/@joshhild?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Josh Hild</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-- <span>Photo by <a href="https://unsplash.com/@pawel_czerwinski?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Paweł Czerwiński</a> on <a href="https://unsplash.com/@pawel_czerwinski?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-- <span>Photo by <a href="https://unsplash.com/@lucassankey?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lucas Sankey</a> on <a href="https://unsplash.com/@lucassankey?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-- <span>Photo by <a href="https://unsplash.com/@ivanana?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ivana La</a> on <a href="https://unsplash.com/@ivanana?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+- <span><a href="https://unsplash.com/@bmowinkel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Brandon Mowinkel</a> on <a href="https://unsplash.com/@bmowinkel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+- <span><a href="https://unsplash.com/@autumnstudio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Autumn Studio</a> on <a href="https://unsplash.com/@autumnstudio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+- <span><a href="https://unsplash.com/@joshhild?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Josh Hild</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+- <span><a href="https://unsplash.com/@pawel_czerwinski?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Paweł Czerwiński</a> on <a href="https://unsplash.com/@pawel_czerwinski?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+- <span><a href="https://unsplash.com/@lucassankey?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lucas Sankey</a> on <a href="https://unsplash.com/@lucassankey?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+- <span><a href="https://unsplash.com/@ivanana?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ivana La</a> on <a href="https://unsplash.com/@ivanana?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
