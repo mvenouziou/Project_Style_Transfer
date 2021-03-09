@@ -1,9 +1,9 @@
 # Project_Style_Transfer
 Implementation of Neural Style Transfer in Tensorflow + experimental feature for audio style transfer.
 
-This app takes a 'content' image and adapts it with texture elements from a second image or sound file.
+This app takes a 'content' (image / audio) and adapts it with texture elements from a second source (image / audio).
 
-EXPERIMENTAL FEATURE: use an audio file in place of a style image. (This is implemented in ipynb code but still being tuned to produce meaningful results.)
+EXPERIMENTAL FEATURE: "audio" style transfer is now implemented in ipynb code but being tuned to produce more pleasing audio results.)
 
 - Try my web app implementation at www.communicatemission.com/ml-projects#style_transfer. (audio style not yet implemented in app)
 
