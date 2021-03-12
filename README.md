@@ -1,4 +1,4 @@
-# Project_Style_Transfer
+# Image & Audio Style Transfer
 Implementation of Neural Style Transfer in Tensorflow + experimental feature for audio style transfer.
 
 This app takes a 'content' (image / audio) and adapts it with texture elements from a second source (image / audio).
